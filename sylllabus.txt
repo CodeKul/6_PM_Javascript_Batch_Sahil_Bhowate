@@ -1,0 +1,59 @@
+1. Introduction to JavaScript
+2. A little bit of history
+3. Just JavaScript
+4. A brief intro to the syntax of JavaScript
+4.1. White space
+4.2. Case sensitive
+4.3. Literals
+4.4. Identifiers
+4.5. Comments
+5. Semicolons
+6. Values
+7. Variables
+8. Types
+    8.1. Primitive types
+    8.2. Object types
+9. Expressions
+10. Operators
+    10.1. The addition operator (+)
+    10.2. The subtraction operator (-)
+    10.3. The division operator (/)
+    10.4. The remainder operator (%)
+    10.5. The multiplication operator (*)
+    10.6. The exponentiation operator (**)
+11. Precedence rules
+12. Comparison operators
+13. Conditionals
+    13.1. Else
+14. Arrays
+    14.1. How to add an item to an array
+    14.2. How to remove an item from an array
+    14.3. How to join two or more arrays
+    14.4. How to find a specific item in the array
+15. Strings
+16. Loops
+    16.1. while
+    16.2. for
+    16.3. for...of
+17. Functions
+18. Arrow functions
+19. Objects
+    19.1. Object Properties
+    19.2. Object Methods
+20. Classes
+21. Inheritance
+22. Asynchronous Programming and Callbacks
+23. Promises
+24. Async and Await
+25. Variables scope
+
+synchronous Or serially
+
+Asynchronous Or Not synchronous
+--- Callback functions ---- drawback -- Callback Hell
+--- Promises
+--- Async and Await
+
+let keyword
+const keyword
+var keyword

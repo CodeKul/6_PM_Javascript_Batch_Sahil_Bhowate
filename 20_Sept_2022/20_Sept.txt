@@ -1,0 +1,52 @@
+Interpreted , dynamically typed ---- let , var , const
+let a="home";
+
+
+statically typed / strictly typed --- C++ , Java
+int a;
+int b;
+float c;
+float d;
+--- Compile Time Errors -- bytecode
+--- Run Time Errors
+
+interpreted -- Javascript , Python
+--- Line by line interpretation
+
+
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+############
+
+Node.js -- run time environment
+
+low level programming         --- assembly 
+hight level programming       --- java jvm 
+                              --- v8 engine --- js
+                              --- node js
+
+
+DOM --- (Document Object Model) Manipulation
+Requesting data from the server
+Posting data to the server -- storing data on the server
+
+typescript
+transpile
+
+let a="Home"
+let b=###;
+let c=####;
+
+
+Vanilla JS
+
+React JS Library  ----
+Angular Framework --- conventional --Ex:-- Cartesian Cordinate System

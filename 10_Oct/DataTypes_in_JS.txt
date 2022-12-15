@@ -1,0 +1,15 @@
+Primitive -- they are not mutable. They cannot be modified.
+Non-Primitive -- they are mutable. They can be modified
+
+Primitive Data Types in js are
+number
+string
+boolean
+undefined
+null
+symbol (ES-6)
+bigint
+
+Non-Primitive
+1.function
+2.Object ([] , {})

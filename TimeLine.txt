@@ -1,0 +1,69 @@
+20 September 
+--- Introduction to JS
+
+21 September 
+--- Scopes of let , var , const declarations. How to write and call a function in js
+
+22 September
+--- How to call and write a functiuon in js
+--- typeof() method in js
+--- Introduction to arrays
+
+23 September
+--- if else statement and else if ladder
+--- Introduction to arrays , and objects.
+--- What is shallow copy , and what is deep copy
+
+26 September And 27 September
+--- Loop statements in js -- for statement
+--- typeof() method and push() method in array
+--- for of statement for applying iteration on arrays
+
+28 September
+--- Write a program to reverse the string
+--- Write a program to identify whether a given number is prime or not
+
+29 September
+--- Write a program to identify whether a given number is prime or not
+--- Usage of break statement in for Loop
+
+30 September
+--- Using the array.find() method in js
+--- Using the array.map() method in js
+--- Using array.push() method in js
+
+7 October
+--- Event listener functions
+--- Template literals
+
+10 October
+--- Data types in JS
+
+11 October
+--- Data types in JS --- Part Two
+
+12 October
+--- Data types in JS --- Part Three
+--- make a table having three columns namely Vehicle , Color , City.
+using for loop or map function populate ther table through the array of js objects called transport
+
+13 October
+--- make a table having three columns namely Vehicle , Color , City.
+using for loop or map function populate ther table through the array of js objects called transport.
+for in statement is used to iterate through the properties of the object
+
+14 October
+--- write a program to push the information typed on the input tag into the object
+--- write a program to display images , whoe links are there in the array of js objects
+
+17 October
+--- write a program to display the comments in the array of js objects
+--- structuredClone() method in js. Introduction to deep copy vs shallow copy
+
+18 October
+--- structuredClone() method in js for making deep copy
+    Deep copy vs shallow copy
+
+
+
+
